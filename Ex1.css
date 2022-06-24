@@ -1,0 +1,78 @@
+div {
+   background-color: black;
+    text-align: center;
+}
+*{
+    font-size: 50px;
+    color: white;
+    border-radius: 10px;
+}
+.grey {
+    background-color: rgb(71, 63, 63);
+}
+.Wigth96 {
+    width: 96%;
+}
+.HeadFoot {
+    margin: 2%;
+    height: 100px;
+}
+
+.clMain {
+    margin: 0 auto;
+    padding-bottom: 15px;
+    position: relative;
+    top: 0;
+    height: 600px;
+}
+
+.MainKids {
+    height: 90%;
+}
+
+.LeftRight {
+    width: 20%;
+}
+
+.leftNav {
+    position: absolute;
+    left: 0;
+    top: 10%;
+}
+
+.centerSection { 
+    position: absolute;
+    left: 22%;
+    top: 10%;
+    width: 55%;
+}
+
+.sectionKids {
+    background-color: rgb(127, 124, 119);
+  height: 150px;
+}/*  */
+
+.sectionHeader {
+    position: absolute;
+    top: 10%;
+    left: 2%;
+}
+
+.sectionArticle {
+    position: absolute;
+    top: 40%;
+    left: 2%;
+}
+
+.sectionFooter {
+    position: absolute;
+    top: 70%;
+    left: 2%;
+}
+
+.rightAside {
+    position: absolute;
+    right: 0;
+    top: 10%;
+}
+
